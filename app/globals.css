@@ -134,3 +134,9 @@ body {
     @apply text-[36px] font-semibold leading-[48px];
   }
 }
+
+
+
+footer {
+  display: none;
+}
